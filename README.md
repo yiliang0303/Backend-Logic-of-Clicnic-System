@@ -4,3 +4,5 @@ The Clinic System consists of 4 types of modules:
 2. Patient Appointment
 3. Patient Visit History
 4. Medical Supply and Inventory
+
+You only need to run the .exe file
